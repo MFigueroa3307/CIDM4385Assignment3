@@ -29,6 +29,8 @@ const FormInput = (props) => {
                                     placeholder: "Enter Zip Code"
                                 },
             ),
+            
         ]
+        
     );
 };
